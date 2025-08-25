@@ -1,3 +1,4 @@
+### 一个简单且可以在cpu上运行的任务
 主要借鉴项目链接：https://github.com/eladhoffer/captionGen
 #### 代码主要完成部分：
 * 修改 data.py 使之适应flickr8k数据集（如编写 flickr8k类等）
