@@ -14,4 +14,4 @@
 * test.py:负责对单张图片进行图片描述，测试相关
 
 ##### 解压数据后的文件夹注意放在项目代码同一目录下
-数据连接：
+数据链接: https://pan.baidu.com/s/1yScvjsKCI1dFweZFGMTNTg?pwd=wztn 提取码: wztn 
